@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="3D-Druck-Assistent">
+  <rect width="512" height="512" rx="112" fill="#1d8a6e"/>
+  <path d="M118 174c0-19 15-34 34-34h208c19 0 34 15 34 34v62h-34v-62H152v62h-34v-62Zm-38 77h352c22 0 40 18 40 40v94c0 22-18 40-40 40h-42v-96H122v96H80c-22 0-40-18-40-40v-94c0-22 18-40 40-40Zm52 69a21 21 0 1 0 0-42 21 21 0 0 0 0 42Z" fill="#fff"/>
+  <path d="M153 310h206v91c0 20-16 36-36 36H189c-20 0-36-16-36-36v-91Z" fill="#d9f7ea"/>
+  <path d="M221 333h70v68h-70z" fill="#1d8a6e"/>
+  <path d="M238 350h36v8h-36zm0 17h36v8h-36z" fill="#d9f7ea"/>
+  <path d="M202 453h108" stroke="#fff" stroke-width="16" stroke-linecap="round"/>
+</svg>
+
