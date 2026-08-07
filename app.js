@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 2.1 seconds
-Output:
 const flow = document.querySelector('#flow');
 const progressFill = document.querySelector('#progressFill');
 const progressText = document.querySelector('#progressText');
