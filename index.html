@@ -1,0 +1,36 @@
+Exit code: 0
+Wall time: 2 seconds
+Output:
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#174b40">
+  <title>3D-Druck-Assistent · K1C</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="app-header">
+      <div class="brand"><span class="printer-mark">▦</span><div><p>Creality K1C</p><h1>3D-Druck-Assistent</h1></div></div>
+      <button class="help-button" id="helpButton" aria-label="Problemhilfe öffnen">?</button>
+    </header>
+
+    <section class="progress-wrap" aria-label="Fortschritt">
+      <div class="progress-label"><span id="stepLabel">Start</span><span id="progressText">0 von 10</span></div>
+      <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+    </section>
+
+    <section class="card" id="flow" aria-live="polite"></section>
+
+    <section class="legend" aria-label="Legende">
+      <div><i class="dot green"></i><span><strong>Grün</strong> · selbst machen</span></div>
+      <div><i class="dot yellow"></i><span><strong>Gelb</strong> · kurz nachfragen</span></div>
+      <div><i class="dot red"></i><span><strong>Rot</strong> · stoppen &amp; Hilfe holen</span></div>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
+
