@@ -1,7 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="3D-Druck-Assistent">
   <rect width="512" height="512" rx="116" fill="#bcebd6"/>
   <circle cx="256" cy="256" r="192" fill="#92d9b9"/>
-  <text x="256" y="343" text-anchor="middle" font-size="282" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif">🖨️</text>
+  <rect x="118" y="100" width="276" height="304" rx="30" fill="#fff"/>
+  <rect x="144" y="127" width="224" height="42" rx="13" fill="#174b40"/>
+  <circle cx="166" cy="148" r="7" fill="#80d7b0"/>
+  <circle cx="188" cy="148" r="7" fill="#f4ca65"/>
+  <rect x="163" y="193" width="186" height="148" rx="12" fill="#d8f5e7" stroke="#174b40" stroke-width="10"/>
+  <path d="M223 169v56h66v-56" fill="#80d7b0" stroke="#174b40" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M209 220h94l-13 31h-68l-13-31Z" fill="#174b40"/>
+  <path d="M256 251v28" stroke="#174b40" stroke-width="11" stroke-linecap="round"/>
+  <path d="M239 278h34l-8 16h-18l-8-16Z" fill="#f4ca65"/>
+  <path d="M201 313h110l-15 18h-80l-15-18Z" fill="#1d8a6e"/>
+  <rect x="144" y="365" width="224" height="16" rx="8" fill="#174b40"/>
   <circle cx="104" cy="118" r="17" fill="#fff" opacity=".9"/>
   <circle cx="407" cy="387" r="11" fill="#fff" opacity=".75"/>
 </svg>
